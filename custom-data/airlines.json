@@ -1843,4 +1843,10 @@
     "callsign": "MENTARI",
     "virtual": true
   }
+    {
+    "icao": "JTC",
+    "name": "JETCARD AVIATION SERVICES",
+    "callsign": "JETCARD",
+    "virtual": true
+  }
 ]
